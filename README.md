@@ -1,6 +1,6 @@
 # Recordatorios Citas Service
 
-![CI](https://github.com/TU_USUARIO/apellido-post1-u9/actions/workflows/ci.yml/badge.svg)
+!![CI](https://github.com/Jaireth-05/perez-post1-u9/actions/workflows/ci.yml/badge.svg)
 
 ## Descripción
 Repositorio del post-contenido de la Unidad 9 de Patrones de Diseño
@@ -193,7 +193,7 @@ integración tendría que haber interceptado un cliente HTTP concreto.
 
 **Evidencia — prueba de integración**
 
-![img_2.png](img_2.png)
+![img_2.png](img_1.png)
 
 ### Integración continua con GitHub Actions
 
@@ -211,7 +211,7 @@ la configuración del pipeline.
 
 **Evidencia — pipeline en verde**
 
-![CI en verde](img_3.png)
+![CI en verde](img_2.png)
 
 ## Decisiones de diseño
 
